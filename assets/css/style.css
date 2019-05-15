@@ -1,0 +1,42 @@
+body {
+ font-family: 'Quicksand', sans-serif;
+}
+
+header {
+	background-image: url('../img/2-01.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+
+}
+
+.titulo {
+	text-align: center;
+	padding: 2em;
+}
+
+h1, h2 {
+	font-family: 'Kaushan Script', cursive;
+}
+
+
+footer {
+	text-align: center;
+	background-color: #42a09b;
+	color: #ffffff;
+	
+}
+
+.logorrss {
+	color: #ffffff;
+	margin: 0.4em;
+}
+
+.trabajo {
+	max-width: 30em;
+
+}
+
+.experiencia-texto{
+	text-align: center;
+}
